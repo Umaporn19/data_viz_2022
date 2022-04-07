@@ -6,3 +6,12 @@ Basic Programming fot Data Science and Data Visualization : นางสาว�
 เริ่มพรีเซ็นต์ 25 มีค 30 มีค 1 เมษา
 # สอบ Final อาทิตย์สอบ
 ให้โจทย์ ศุกร์ที่ 8 เมษา ส่งงานก่อนวันจันทร์ที่ 11 เมษา
+
+
+# Project
+Basic Programming for Data Science and Data Visualization : นางสาวอุมาพร คำภิชัย รหัสนักศึกษา 623020547-0
+
+* [Project_Dataviz_แก้ไขแล้ว (Colab)](https://github.com/Umaporn19/data_viz_2022/blob/main/Project_Dataviz_new.ipynb)
+ 
+  * [Dashboard](https://datastudio.google.com/reporting/f4b0a5ac-c80b-469a-970a-2130b25b3471)
+
