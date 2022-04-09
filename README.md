@@ -8,10 +8,13 @@ Basic Programming fot Data Science and Data Visualization : นางสาว�
 ให้โจทย์ ศุกร์ที่ 8 เมษา ส่งงานก่อนวันจันทร์ที่ 11 เมษา
 
 
-# Project
-Basic Programming for Data Science and Data Visualization : นางสาวอุมาพร คำภิชัย รหัสนักศึกษา 623020547-0
+# Project กลุ่มสามสาว
 
-* [Project_Dataviz_แก้ไขแล้ว (Colab)](https://github.com/Umaporn19/data_viz_2022/blob/main/Project_Dataviz_new.ipynb)
+
+* [Github](https://github.com/Umaporn19/data_viz_2022/blob/main/Project_Dataviz_new.ipynb)
  
-  * [Dashboard](https://datastudio.google.com/reporting/f4b0a5ac-c80b-469a-970a-2130b25b3471)
+* [Dashboard](https://datastudio.google.com/reporting/f4b0a5ac-c80b-469a-970a-2130b25b3471)
+
+* [สไลด์นำเสนอ](https://www.canva.com/design/DAE7w61wf8A/2neOtyQ8RirvS5hTW6suwg/view?utm_content=DAE7w61wf8A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 
