@@ -18,3 +18,13 @@ Basic Programming fot Data Science and Data Visualization : นางสาว�
 * [สไลด์นำเสนอ](https://www.canva.com/design/DAE7w61wf8A/2neOtyQ8RirvS5hTW6suwg/view?utm_content=DAE7w61wf8A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
+# Final กลุ่ม kibbutzes
+
+
+* [Github](https://github.com/Umaporn19/data_viz_2022/blob/main/Final_exam.ipynb)
+ 
+* [Dashboard]()
+
+
+
+
