@@ -23,7 +23,7 @@ Basic Programming fot Data Science and Data Visualization : นางสาว�
 
 * [Github](https://github.com/Umaporn19/data_viz_2022/blob/main/Final_exam.ipynb)
  
-* [Dashboard]()
+* [Dashboard](https://datastudio.google.com/s/g2I06anfNsQ)
 
 
 
